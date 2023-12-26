@@ -32,5 +32,11 @@ public class Classn1 {
 		System.out.println("Test4 is succeeded");
 	}
 	
+	@Test
+	public void test5 () {
+		
+		System.out.println("Test5 is succeeded");
+	}
+	
 	
 }
